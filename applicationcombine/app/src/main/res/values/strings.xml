@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">童话</string>
+    <string name="shujia">书架</string>
+    <string name="shucheng">书城</string>
+    <string name="播放">播放</string>
+    <string name="个人">个人</string>
+    <!--settings-->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="copyright">copyright by : J-laughter. All rights reserved.</string>
+    <string name="version">版本号：%1$s</string>
+    <string name="about_developer">关于我们</string>
+    <string name="log_off">退出登录</string>
+    <!--童话书章节概要-->
+    <string name="textView2">Chapter 1\nThe Fox and the Crow\nJul.2019\n \nA Fox once saw a Crow fly off with a piece of cheese in its beak and settle on a branch of a tree.
+        ‘That’s for me, as I am a Fox,’said Master Reynard, and he walked up to the foot of the tree.
+        ‘Good-day, Mistress Crow,’ he cried.</string>
+    <string name="textView9">Chapter 2\nThe Fox and the Crow\nOct.2019\n \n‘How well you are looking to-day: how glossy your feathers;
+        how bright your eye. I feel sure your voice must surpass that of other birds,
+        just as your figure does; let me hear but one song from you that I may greet you as the Queen of Birds.’</string>
+    <string name="textView10">Chapter 3\nThe Fox and the Crow\nOct.2019\n \nThe Crow lifted up her head and began to caw her best,
+        but the moment she opened her mouth the piece of cheese fell to the ground,
+        only to be snapped up by Master Fox.‘That was all I wanted. In exchange for your cheese I will give you a piece of advice for the future .’</string>
+</resources>

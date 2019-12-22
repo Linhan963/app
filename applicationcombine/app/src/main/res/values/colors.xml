@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- homepage -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- settings -->
+    <color name="border_clo">#ccc</color>
+    <color name="text_clo">#333</color>
+    <color name="blue">#419DE4</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorText">#A1A1A1</color>
+    <color name="colorFooter">#efefef</color>
+    <color name="colorPressed">#B91C23</color>
+    <color name="colorBg">#F9F9F9</color>
+    <color name="colorView">#eeeff0</color>
+    <color name="color_minefragment_top">#20B2AA</color>
+ <!-- Login -->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="Spaire">#CDCDB4</color>
+    <color name="btn">#449dd5</color>
+    <color name="green">#5dc534</color>
+
+</resources>
